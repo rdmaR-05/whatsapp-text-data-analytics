@@ -16,9 +16,6 @@ This project analyzes exported WhatsApp chat data using Python. It performs text
 - **Feature Extraction**: Applies TF-IDF and Bag of Words to identify key terms and patterns.
 - **Visualizations**: Generates plots to represent findings (located in the `figures` directory).
 
-## 📊 Sample Visualizations
-
-![Sample Visualization](figures/sample_plot.png)
 
 ## 🚀 Getting Started
 
