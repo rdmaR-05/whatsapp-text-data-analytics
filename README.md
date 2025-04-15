@@ -25,9 +25,7 @@ This project analyzes exported WhatsApp chat data using Python. It performs text
    cd whatsapp-text-data-analytics
 Install dependencies:
 
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
 Export your WhatsApp chat:
 
@@ -39,31 +37,18 @@ Save the .txt file to the project directory.
 
 Run the preprocessing script:
 
-bash
-Copy
-Edit
 python pretext.py
 Perform sentiment analysis:
 
-bash
-Copy
-Edit
+
 python chatsentiment.py
 Extract features:
 
-bash
-Copy
-Edit
 python TF_IDF&BoW.py
 🛠 Technologies Used
 Python
-
 pandas
-
 scikit-learn
-
 matplotlib
-
 seaborn
-
 nltk
