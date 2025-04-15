@@ -47,8 +47,13 @@ Extract features:
 python TF_IDF&BoW.py
 🛠 Technologies Used
 Python
+ 
 pandas
+
 scikit-learn
+
 matplotlib
+
 seaborn
+
 nltk
